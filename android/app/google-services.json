@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "217026982419",
+    "project_id": "aspirasiuns",
+    "storage_bucket": "aspirasiuns.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217026982419:android:1d5498a52bbe8240eb45e6",
+        "android_client_info": {
+          "package_name": "com.aspirasiuns"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "217026982419-jnh0iaqgf783ctnk12g0s3n41dn4frmv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDlrJqoRmGM_VPQkJEqHtjUIW--1hPF-M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "217026982419-jnh0iaqgf783ctnk12g0s3n41dn4frmv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
